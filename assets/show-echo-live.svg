@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Echo Live show poster</title>
+  <desc id="desc">Graphic television poster with broadcast wave lines and a live studio floor.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0a0d1b"/>
+      <stop offset=".45" stop-color="#3531a5"/>
+      <stop offset="1" stop-color="#20d4c8"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="1080" fill="url(#bg)"/>
+  <circle cx="390" cy="338" r="218" fill="#fff" opacity=".08"/>
+  <circle cx="390" cy="338" r="146" fill="#fff" opacity=".09"/>
+  <circle cx="390" cy="338" r="78" fill="#ff4f7b" opacity=".82"/>
+  <path d="M80 710c114-80 216-80 306 0s194 80 314 0" fill="none" stroke="#fff" stroke-width="18" opacity=".88"/>
+  <path d="M80 790c114-80 216-80 306 0s194 80 314 0" fill="none" stroke="#48d7d5" stroke-width="18" opacity=".85"/>
+  <path d="M80 870c114-80 216-80 306 0s194 80 314 0" fill="none" stroke="#ffcd5b" stroke-width="18" opacity=".88"/>
+  <text x="80" y="180" fill="#fff" font-family="Inter, Helvetica, Arial, sans-serif" font-size="94" font-weight="800">ECHO</text>
+  <text x="80" y="272" fill="#fff" font-family="Inter, Helvetica, Arial, sans-serif" font-size="94" font-weight="800">LIVE</text>
+  <text x="84" y="990" fill="#fff" opacity=".72" font-family="Inter, Helvetica, Arial, sans-serif" font-size="28" letter-spacing="4">EVENT SPECIALS</text>
+</svg>

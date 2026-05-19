@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 1080" role="img" aria-labelledby="title desc">
+  <title id="title">The Signal Room show poster</title>
+  <desc id="desc">Graphic television poster with waveform lines and a studio control panel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#8d4cff"/>
+      <stop offset=".47" stop-color="#446ce9"/>
+      <stop offset="1" stop-color="#48d7d5"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="1080" fill="#0a0d1a"/>
+  <rect x="42" y="42" width="696" height="996" fill="url(#bg)" opacity=".9"/>
+  <path d="M82 328h616M82 424h616M82 520h616" stroke="#fff" stroke-width="3" opacity=".25"/>
+  <path d="M82 428c50 0 50-126 100-126s50 252 100 252 50-252 100-252 50 252 100 252 50-252 100-252 50 126 116 126" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+  <rect x="96" y="648" width="588" height="178" fill="#070a14" opacity=".72"/>
+  <circle cx="172" cy="736" r="28" fill="#ffcd5b"/>
+  <circle cx="264" cy="736" r="28" fill="#ff4f7b"/>
+  <circle cx="356" cy="736" r="28" fill="#48d7d5"/>
+  <path d="M452 706h174m-174 60h116" stroke="#fff" stroke-width="12" opacity=".48"/>
+  <text x="86" y="178" fill="#fff" font-family="Inter, Helvetica, Arial, sans-serif" font-size="76" font-weight="800">THE</text>
+  <text x="86" y="250" fill="#fff" font-family="Inter, Helvetica, Arial, sans-serif" font-size="76" font-weight="800">SIGNAL ROOM</text>
+  <text x="90" y="932" fill="#fff" opacity=".75" font-family="Inter, Helvetica, Arial, sans-serif" font-size="28" letter-spacing="4">WEEKLY FORMAT</text>
+</svg>

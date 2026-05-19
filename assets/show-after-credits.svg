@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 1080" role="img" aria-labelledby="title desc">
+  <title id="title">After The Credits show poster</title>
+  <desc id="desc">Graphic television poster with studio monitors and bright production lights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#171425"/>
+      <stop offset="0.5" stop-color="#2c1e66"/>
+      <stop offset="1" stop-color="#0aa6b1"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" x2="1">
+      <stop offset="0" stop-color="#8d4cff"/>
+      <stop offset="1" stop-color="#48d7d5"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="1080" fill="url(#bg)"/>
+  <path d="M78 220h624v376H78z" fill="#090b16" opacity=".84"/>
+  <path d="M118 262h230v128H118zm314 0h230v128H432zm-314 188h230v104H118zm314 0h230v104H432z" fill="url(#screen)" opacity=".9"/>
+  <path d="M80 662h620v6H80zm0 56h620v6H80zm0 56h620v6H80z" stroke="#fff" stroke-width="3" opacity=".24"/>
+  <circle cx="164" cy="143" r="48" fill="#ffcd5b"/>
+  <circle cx="620" cy="142" r="56" fill="#fff" opacity=".18"/>
+  <path d="M118 884h544" stroke="#48d7d5" stroke-width="8"/>
+  <text x="86" y="786" fill="#fff" font-family="Inter, Helvetica, Arial, sans-serif" font-size="78" font-weight="800">AFTER</text>
+  <text x="86" y="862" fill="#fff" font-family="Inter, Helvetica, Arial, sans-serif" font-size="78" font-weight="800">THE CREDITS</text>
+  <text x="88" y="930" fill="#fff" opacity=".7" font-family="Inter, Helvetica, Arial, sans-serif" font-size="28" letter-spacing="4">ECHORIUM ORIGINAL</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Field Notes show poster</title>
+  <desc id="desc">Graphic television poster with documentary-style landscape frames.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#4fdddc"/>
+      <stop offset=".52" stop-color="#7372f2"/>
+      <stop offset="1" stop-color="#111425"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="1080" fill="url(#sky)"/>
+  <path d="M0 608c120-114 226-138 318-72 74 54 146 62 216 24 64-34 146-18 246 48v472H0z" fill="#09101c" opacity=".84"/>
+  <path d="M66 210h648v324H66z" fill="#ffffff" opacity=".16"/>
+  <path d="M106 250h568v244H106z" fill="#06101c" opacity=".76"/>
+  <circle cx="218" cy="338" r="56" fill="#ffcd5b"/>
+  <path d="M106 494l136-116 86 70 112-136 234 182z" fill="#48d7d5" opacity=".84"/>
+  <path d="M96 720h242m-242 72h354m-354 72h226" stroke="#fff" stroke-width="10" opacity=".34"/>
+  <text x="82" y="886" fill="#fff" font-family="Inter, Helvetica, Arial, sans-serif" font-size="86" font-weight="800">FIELD</text>
+  <text x="82" y="968" fill="#fff" font-family="Inter, Helvetica, Arial, sans-serif" font-size="86" font-weight="800">NOTES</text>
+</svg>
